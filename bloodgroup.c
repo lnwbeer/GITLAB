@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 void main()
+<<<<<<< HEAD
 { char Name[99], G[19], answer[10];
   int i;
   do
